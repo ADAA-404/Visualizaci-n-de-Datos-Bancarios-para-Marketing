@@ -1,4 +1,4 @@
-# Visualización de Datos Bancarios para Telemarketing 📊
+# Visualización de Datos Bancarios para Marketing 📊
 
 Este proyecto tiene como objetivo principal la exploración y visualización de un conjunto de datos relacionado con campañas de telemarketing bancario. A través de diversas técnicas de visualización de datos utilizando librerías como `matplotlib`, `seaborn`, y `plotly`, se busca entender las características de los clientes y el impacto de las campañas, identificando patrones y relaciones entre las variables demográficas, económicas y los resultados de las suscripciones a depósitos a plazo.
 
