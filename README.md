@@ -28,7 +28,7 @@ Para configurar y ejecutar este proyecto, se recomienda utilizar un entorno `con
     ```
 (Dado que `plotly` puede tener dependencias específicas, `pip` suele ser más efectivo para su instalación en entornos Conda).
 
-## Nota ## ⚠️
+## Nota ⚠️
 El script incluye comandos `!wget` y `!unzip` para descargar y descomprimir el conjunto de datos. Estos comandos son para entornos basados en Unix/Linux (como JupyterLab o Google Colab). Si ejecutas el script localmente en Windows, es posible que necesites descargar y descomprimir el archivo `bank-additional.zip` manualmente en el mismo directorio donde guardes el script.
 
 ## Ejemplo de Uso 📎
