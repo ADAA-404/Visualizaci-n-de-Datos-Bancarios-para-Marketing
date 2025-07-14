@@ -12,7 +12,7 @@ This dataset is publicly available for research. Details are described in [Moro 
 
 > [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014.
 
-## Tecnologías Usadas 🐍
+## Technologies Used  🐍
 -   pandas: manipulación y análisis de datos tabulares, incluyendo la carga del conjunto de datos y transformaciones.
 -   numpy: operaciones numéricas eficientes, especialmente con arreglos de datos.
 -   matplotlib.pyplot: creación de gráficos estáticos y personalización básica de visualizaciones.
