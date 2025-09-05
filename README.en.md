@@ -13,12 +13,12 @@ This dataset is publicly available for research. Details are described in [Moro 
 > [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014.
 
 ## Technologies Used  🐍
--   pandas: manipulación y análisis de datos tabulares, incluyendo la carga del conjunto de datos y transformaciones.
--   numpy: operaciones numéricas eficientes, especialmente con arreglos de datos.
--   matplotlib.pyplot: creación de gráficos estáticos y personalización básica de visualizaciones.
--   seaborn: creación de gráficos estadísticos atractivos e informativos, incluyendo distribuciones, relaciones bivariadas y mapas de calor.
--   plotly: creación de gráficos interactivos, que permiten una exploración más dinámica de los datos directamente en el navegador.
--   warnings: gestionar y filtrar advertencias.
+-   pandas:  manipulation and analysis of tabular data, including dataset loading and transformations.
+-   numpy: efficient numerical operations, especially with data arrays.
+-   matplotlib.pyplot: creation of static graphs and basic customization of visualizations.
+-   seaborn: creation of attractive and informative statistical graphs, including distributions, bivariate relationships, and heat maps.
+-   plotly: creation of interactive graphs, allowing for more dynamic exploration of data directly in the browser.
+-   warnings: managing and filtering warnings.
 
 ## Installation Considerations ⚙️
 
